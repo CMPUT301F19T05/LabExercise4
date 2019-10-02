@@ -1,7 +1,7 @@
 package com.example.myapplication;
 
 public abstract class Shape {
-    public String color = "pink";
+    public String color = "rainbow";
     public int x;
     public int y;
 }
